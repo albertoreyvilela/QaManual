@@ -1,0 +1,75 @@
+Plan de Pruebas ---> Pestaña "Contacto" en la Página Web de Innocv
+
+Caso 1:
+Acceso a la Pestaña "Contacto"
+Paso a Paso:
+
+1-Navegar a la URL https://www.innocv.com.
+2-Hacer clic en el enlace "Contacto".
+
+Resultado Esperado:
+Se debe redirigir a la página de contacto de Innocv.
+
+Caso 2:
+Visualización del Formulario de Contacto
+Paso a Paso:
+
+1-Navegar a la URL https://www.innocv.com/contacto.
+
+Resultado Esperado:
+Debe mostrarse un formulario de contacto en la página, ubicaciones y últimas noticias.
+
+Caso 3:
+Verificación de la Visibilidad de la Información de Contacto
+Paso a Paso:
+
+1-Navegar a la URL https://www.innocv.com/contacto.
+
+Resultado Esperado:
+Debe mostrarse la información de contacto (dirección, teléfono, correo electrónico, maps , ubicaciones y últimas noticias.) claramente visible en la página.
+
+Caso 4:
+Validación del Envío del Formulario de Contacto
+Paso a Paso:
+
+1-Navegar a la URL https://www.innocv.com/contacto.
+2-Completar el formulario con información válida.
+3-Aceptar los términos de uso.
+4-Enviar el formulario.
+
+Resultado Esperado:
+Debe recibir una confirmación de que el mensaje ha sido enviado correctamente.
+Debe recibir una copia del mensaje en el correo electrónico registrado.
+
+Caso 5:
+Manejo de Errores al Enviar el Formulario de Contacto con Información Incorrecta
+Paso a Paso:
+
+1-Navegar a la URL https://www.innocv.com/contacto.
+2-Completar el formulario con información incorrecta.
+3-Intentar enviar el formulario.
+
+Resultado Esperado:
+Debe recibir un mensaje de error indicando los campos que requieren corrección.
+El formulario no debe ser enviado hasta que la información sea válida.
+
+Caso 6:
+Navegación de Regreso a la Página Principal desde la Página de Contacto
+Paso a Paso:
+
+1-Navegar a la URL https://www.innocv.com/contacto.
+2-Hacer clic en la imagen de la Empresa.
+
+Resultado Esperado:
+Se debe redirigir de vuelta a la página principal de Innocv.
+
+Caso 7:
+Limpieza del Formulario de Contacto
+Paso a Paso:
+
+1-Navegar a la URL https://www.innocv.com/contacto.
+2-Completar algunos campos del formulario.
+3-Limpiar el formulario.
+
+Resultado Esperado:
+Todos los campos del formulario deben estar vacíos.
